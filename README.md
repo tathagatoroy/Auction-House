@@ -4,8 +4,9 @@
 - [Tathagato Roy](https://github.com/tathagatoroy)
 - [Snehal Kumar](https://github.com/snehalkumar5)
 - [Rutvij Menavlikar](https://github.com/Rutvij-1)
-
 ---
+
+The original repository can be found [here ](https://github.com/Rutvij-1/Block-Chain-Collab).This is a cleaned up version of it.
 
 ## Backend(Smart Contracts)
 
